@@ -8,3 +8,6 @@ data/puzzles/
 data/raw_regions/
 
 samples/read_puzzle
+train_data/*
+test_data/*
+db/*
